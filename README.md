@@ -1,15 +1,15 @@
 # Project_WikiText
 Little project for my school with Syphorien Mathieu (in french btw)
 
-# La scène e-sport dans Super Smash Bros Melee
+## La scène e-sport dans Super Smash Bros Melee
 
 Ici, vous trouverez un résumé en français des différents évènements et joueurs marquant dans l'e-sport sur Super Smash Bros Melee. En espérant que vous apprécierez!
 
-## Qu’est-ce que l’e-sport
+### Qu’est-ce que l’e-sport
 
 L’e-sport est une discipline sportive reconnue laissant s’affronter sur une multitudes de jeux-vidéos (JV) les meilleurs joueurs de la planète. L’e-sport déchaîne les passions et certains jeux brillent en grande partie grâce à leur scène compétitive. Super Smash Bros Melee (SSBM) en est un très bon exemple mais on pourrait aussi citer League of Legends ou Counter Strike Global Offensive. L’e-sport s’est grandement démocratisé ces dernières années notamment grâce à la démocratisation du JV.
 
-## Qu’est ce que Super Smash Bros Melee (SSBM)
+### Qu’est ce que Super Smash Bros Melee (SSBM)
 
 Super Smash Bros Melee (on va utiliser ici l’abréviation *"SSBM"* ou encore *"Melee"*)  est un jeu de Nintendo sorti sur Gamecube née 2001 / 2002, il est la suite de Super Smash Bros sorti sur Nintendo 64, puis il va être suivi de Super Smash bros Brawl sur WII, Super Smash Bros 4 sur WII U et enfin Super Smash Bros Ultimate sur switch. Masahiro Sakurai est à la tête de sa production depuis la naissance du jeu jusqu'à Ultimate, il est le “papa” de Super Smash Bros.
 
@@ -21,7 +21,7 @@ Le principe du jeu est simple, réunir tous les personnages phare de Nintendo (L
 
 - son système de combat et plus particulièrement son système de vie. Il y a un système de pourcentage qui répond à la définition suivante : plus le pourcentage est élevé, plus votre personnage sera expulsé loin du terrain
 
-## Les joueurs phares
+### Les joueurs phares
 
 Nous allons ici vous présenter les 5 joueurs les plus marquant de l’histoire de SSBM, ils sont considérés comme étant des dieux par la communauté, on va donc vous parlez des 5 dieux de melee:
 
@@ -45,7 +45,7 @@ Nous allons ici vous présenter les 5 joueurs les plus marquant de l’histoire 
 | Armada    |      |      |      |      |  x   |   x  |      |      |   x  |   x  |      |      |      |
 | PPMD      |      |      |      |      |      |      |      |      |      |      |      |      |      |
 
-## Aujourd'hui
+### Aujourd'hui
 
 Aujourd’hui SSBM n’est pas mort, ce jeu qui est pourtant sorti en 2001 est encore très populaire. Ultimate et SSBM sont à vrai dire les deux jeux encore vivants a l’heure actuelle. Cela peut s’expliquer par le fait que les autres Super Smash Bros on était pensé et développé pour jouer en famille (des joueurs occasionnels) et non pour des compétiteurs.
 
@@ -53,7 +53,7 @@ Aujourd’hui SSBM n’est pas mort, ce jeu qui est pourtant sorti en 2001 est e
 
 Car oui, Nintendo est contre la compétition. Ce dernier ne soutient absolument pas la scène compétitive et au contraire essaye de la limiter au maximum (en bloquant l’accès de leur jeu en tournois). Pour eux la licence Super Smash Bros est une licence familiale. Pour donner un exemple supplémentaire de l’opposition  de Nintendo vis à vis de la compétition : Fizzi un membre de la communauté a créé un mode online (ce mode s’appelle slippi) pour SSBM, un online stable et fonctionnel qui est apprécié par les compétiteur et est utilisé par ces derniers pour pouvoir faire des tournois. En parallèle  à cela, le mode online de Nintendo (développé par une équipe de professionnels) est très instable et de mauvaise qualité, il est injouable pour pouvoir le pratiquer en tournois.
 
-## Sources
+### Sources
 
 - https://fr.wikisource.org/wiki/Aide:La_syntaxe_wiki
 
